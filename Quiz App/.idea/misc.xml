@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bianca/Documents/Facultate/AMDM/Proiect - AMDM/Quiz App/app/src/main/res/drawable/edit_text_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/AMDM/Proiect - AMDM/Quiz App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/AMDM/Proiect - AMDM/Quiz App/app/src/main/res/drawable/round_back_white_stroke.xml" value="0.334375" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/AMDM/Proiect - AMDM/Quiz App/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/AMDM/Proiect - AMDM/Quiz App/app/src/main/res/layout/activity_quiz.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/AMDM/Proiect - AMDM/Quiz App/app/src/main/res/layout/activity_quiz_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/AMDM/Proiect - AMDM/Quiz App/app/src/main/res/layout/activity_quiz_results.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/AMDM/Proiect - AMDM/Quiz App/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Anul 4/Semestru I/AMDM/Proiect - AMDM/Quiz App/app/src/main/res/layout/activity_main.xml" value="0.1339918946301925" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Anul 4/Semestru I/AMDM/Proiect - AMDM/Quiz App/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/btn_primary.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/edit_text_background.xml" value="0.26875" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/ic_congrats.xml" value="0.3828125" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/ic_login_logo.xml" value="0.3828125" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/ic_quizapp.xml" value="0.3375" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/ic_undraw_questions.xml" value="0.3375" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/ic_wave.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/quiz.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/quiz_results.xml" value="0.3828125" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/round_back.xml" value="0.3375" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/round_back_green.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/round_back_light.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/round_back_option.xml" value="0.3828125" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/round_back_red.xml" value="0.3828125" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/round_back_white.xml" value="0.26875" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/drawable/round_back_white_stroke.xml" value="0.3828125" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/layout/activity_main.xml" value="0.27358490566037735" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/layout/activity_quiz.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/layout/activity_quiz_main.xml" value="0.25" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/layout/activity_quiz_results.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Bianca/Documents/Facultate/Proiect - AMDM/Quiz App/app/src/main/res/layout/activity_register.xml" value="0.2526041666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

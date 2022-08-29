@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/gray"
+    >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:gravity="center_vertical"
+        android:paddingStart="35dp"
+        android:paddingEnd="35dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/ic_wave"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/quizIcons"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_marginStart="75dp"
+            android:layout_marginEnd="80dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/ic_login_logo" />
+
+        <TextView
+            style="@style/TextAppearance.AppCompat.Title"
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Conectare"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            />
+
+        <TextView
+            style="@style/TextAppearance.AppCompat.Body1"
+            android:layout_marginTop="40dp"
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Introduceți datele dvs. de conectare:"
+            android:textColor="@color/white"
+            />
+
+        <EditText
+            android:background="@drawable/edit_text_background"
+            android:id="@+id/email"
+            android:backgroundTint="@color/gray2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:hint="Email"
+            android:textSize="15sp"
+            android:ems="10"
+            android:inputType="textEmailAddress"
+            android:textColor="@color/white"
+            />
+
+        <EditText
+
+            android:background="@drawable/edit_text_background"
+            android:id="@+id/password"
+            android:backgroundTint="@color/gray2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:hint="Parola"
+            android:textSize="15sp"
+            android:ems="10"
+            android:inputType="textPassword"/>
+
+        <Button
+            android:background="@drawable/btn_primary"
+            android:id="@+id/connect"
+            app:backgroundTint="@color/blue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="Conectează-te" />
+
+        <TextView
+            android:id="@+id/register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:textAlignment="center"
+            android:text="Înregistrează-te"
+            android:textColor="@color/gray3"
+            />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_marginTop="100dp"
+            android:visibility="gone"
+            android:indeterminateTintMode="src_atop"
+            android:indeterminateTint="@color/blue"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ic_wave"
+        android:layout_width="0dp"
+        android:layout_height="120dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/wave"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
